@@ -56,4 +56,6 @@ You can have this application up and running with just a few steps because it ha
 This repository contains beginner level code and might contain some things I wish to change or remove. I have not maintained this for quite some time, but now I am trying to slowly fix these issues. You are welcome to open issues if you find any and I will accept PR's as well.
 <br/><br/>
 
+Co-authors: https://github.com/davehowson
+
 Cheers 💻 🍺 🔥 🙌
